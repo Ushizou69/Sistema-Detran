@@ -42,9 +42,7 @@ entre na pasta esqueleto e procure o arquivo esqueleto_G03_V6.exe e o clique dua
 ## Objetivo
 Criar um sistema para simular o Detran, ajudando a mostrar como funciona estes sistemas de filas internamente, aprimorando o conhecimento;Colocar em prática os conhecimentos adquiridos durante a disciplina.
 
-============================================================
-DIÁRIO DE DESENVOLVIMENTO — Grupo G03 (Detran)
-============================================================
+## DIÁRIO DE DESENVOLVIMENTO — Grupo G03 (Detran)
 
 ## 1. Quem implementou cada função?
 --------------------------------
