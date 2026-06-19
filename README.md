@@ -6,11 +6,16 @@ Projeto desenvolvido para a disciplina de Estrutura de Dados para a Graduação 
 ## Como instalar?
 
 Vá em <> Code, baixe o arquivo .zip:
+
 <img width="436" height="344" alt="image" src="https://github.com/user-attachments/assets/4fb66069-296b-47a0-bc49-99e588007968" />
+
 e clique com botão direito e clique em extrair aqui:
+
 <img width="306" height="532" alt="image" src="https://github.com/user-attachments/assets/70c62880-2ca3-4169-a21b-a99257b90008" />
 <img width="302" height="113" alt="image" src="https://github.com/user-attachments/assets/ee35ed19-bc87-4b85-ae36-63b0f8adcfda" />
+
 entre na pasta esqueleto e procure o arquivo esqueleto_G03_V6.exe e o clique duas vezes com o botão esquerdo, ou clique com o botão direito e clique em abrir.
+
 <img width="640" height="471" alt="image" src="https://github.com/user-attachments/assets/788fde70-5d20-416b-bbc2-d65f2ca92cda" />
 <img width="1115" height="628" alt="image" src="https://github.com/user-attachments/assets/e3456653-c736-4e0e-aa0e-749edfa3d7a8" />
 
